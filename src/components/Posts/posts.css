@@ -1,0 +1,29 @@
+.posts-wrapper {
+  padding: 20px;
+}
+.new-post-wrapper {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  width: 400px;
+  margin: 10px auto;
+}
+label{
+    margin-bottom: 5px;
+}
+.input-field {
+  float: right;
+  width: 200px;
+  border-radius: 5px;
+}
+select.input-field {
+  border-width: 2px;
+  padding: 1px 2px;
+  width: 208px;
+}
+.add-post-button {
+  margin-top: 5px;
+  font-weight: 700;
+  background-color: aqua;
+  border-radius: 5px;
+}
